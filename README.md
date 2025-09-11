@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # ChemCrow FastAPI Service
 
 FastAPI service for ChemCrow chemistry analysis.
@@ -11,3 +12,6 @@ FastAPI service for ChemCrow chemistry analysis.
 6. Run: python app.py
 
 API available at http://localhost:5001
+=======
+# tib-chemcrow
+>>>>>>> a990bceecdb0843d3cc4a2f64e1b06413fb6c27d
