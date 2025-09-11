@@ -13,5 +13,3 @@ FastAPI service for ChemCrow chemistry analysis.
 
 API available at http://localhost:5001
 =======
-# tib-chemcrow
->>>>>>> a990bceecdb0843d3cc4a2f64e1b06413fb6c27d
