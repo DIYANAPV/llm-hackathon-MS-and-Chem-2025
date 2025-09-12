@@ -34,7 +34,11 @@ uv run mc_nest_hypo_gen/app.py
 
 The above commands open the ports at http://0.0.0.0:5001 for chemcrow and http://0.0.0.0:8000 for MC Nest Hypothesis Generation. This provides ability to self-host these tools and integrate with any agents or models possible.
 
-Here, we integrate these APIs into TIB AIssistant which improves the hypothesis generation and validate chemical analysis using ChemCrow tools through the research workflow.
+
+
+## Integrating to TIB AIssistant
+
+We then integrate these APIs into TIB AIssistant as tools, which improves the hypothesis generation and validate chemical analysis using ChemCrow tools through the research workflow. The documentation on how to integrate tools into TIB AIssistant can be found [here](https://tibhannover.gitlab.io/orkg/tib-aissistant/web-app/storybook/?path=/docs/main-concepts-tools--docs).
 
 
 ## Experimentation
