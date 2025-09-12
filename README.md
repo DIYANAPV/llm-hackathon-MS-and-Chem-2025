@@ -71,17 +71,9 @@ We also try to evaluate if the LLMs memorize about the papers that we are testin
 
 
 ## Limitations and Future Work
-* Hallucinations
-    - Citations
-    - Hypothesis
-    - Report formats
+* We do notice hallucinations during oure valuation particularly in citing the related work papers, and report formats.
 
-* Comprehensive evaluation
-    - Plagiarism check
-    - Time and cost analysis
-    - Ablation studies
-    - Domain expert analysis
-    - Failed experiment analysis
+* We also recommend a comprehensive evaluation in the future including plagiarism checks, time and cost analysis, ablation studies, domain expert analysis and failed experiment analysis.
 
 # Ethical and Safety Considerations
 * Researchers should consider the safety concerns of the new chemical compounds and solutions suggested by AI.
