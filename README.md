@@ -5,6 +5,8 @@ The github provides a comprehensive project structure for the ChemChrow as a too
 
 We believe the integration of the tools into TIB AIssistant enhances the research workflow of chemists and material scientists. We hope, this also open doors to integrate more comprehensive tools that could boost the research and validate hypothesis in respective domains.
 
+![Demo](assets/demo.gif)
+
 
 ## Our Project
 
