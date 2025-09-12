@@ -1,4 +1,4 @@
-# TIB AIssitant Alchemy.
+# TIB AIssitant Alchemy
 
 
 The github provides a comprehensive project structure for the ChemChrow as a tool and MC Nest Hypothesis Generation as Tools integrated in [TIB AIssistant](https://gitlab.com/TIBHannover/orkg/tib-aissistant/web-app) developed for [Large Language Model (LLM) Hackathon for Applications in Materials Science and Chemistry 2025](https://llmhackathon.github.io/).
