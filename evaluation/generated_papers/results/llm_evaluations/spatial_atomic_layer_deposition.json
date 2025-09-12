@@ -1,0 +1,46 @@
+{
+    "Summary": "The paper investigates how lowering the spatial atomic-layer deposition (SALD) substrate temperature from 200\u00b0C to 80\u00b0C affects the fixed charge density (Qf) and interface defect density (Dit) of 5 nm Al2O3 on n-type c-Si. The authors use a one-factor, five-level full-factorial temperature sweep (\u22653 wafers per level), keep non-temperature parameters constant, and decouple growth-T from activation-T via a split-plot rapid thermal anneal (350\u2013500\u00b0C, 30 s). Characterization includes COCOS and HF-CV for Qf, conductance/admittance spectroscopy for Dit, QSSPC and \u00b5W-PL for lifetime and Seff, AR-XPS/ToF-SIMS for impurities, in-situ ellipsometry for GPC/refractive index, and supporting DFT to interpret temperature-dependent hydroxyl removal and Al coordination. DoE-ANOVA and Bayesian mixed-effects modeling are used to attribute variance in Qf and Dit primarily to growth temperature. The main claim is that true ALD-like self-limiting growth persists at 80\u00b0C (GPC \u2248 0.12 nm/cycle), but low T increases \u2013OH/H and C incorporation, reduces |Qf| and increases Dit; an intermediate 110\u2013140\u00b0C window with a short 400\u2013450\u00b0C RTA yields near-optimal passivation (\u03c4eff > 1 ms, Seff < 10 cm/s), compatible with high-throughput SALD.",
+    "Strengths": [
+        "Clear and relevant industrial motivation: low-temperature SALD for temperature-sensitive Si PV and related platforms.",
+        "Solid experimental design intent: full-factorial temperature sweep with replication, split-plot decoupling of growth vs activation temperature, randomized loading/blocking.",
+        "Comprehensive multi-modal characterization plan spanning electrical, chemical, structural, and optical metrics.",
+        "Attention to statistics (ANOVA, Bayesian mixed-effects) to separate growth-T effects from wafer variability.",
+        "Practical process guidance (identification of a 110\u2013140\u00b0C window, mitigation strategies like O3 pulses or stronger RTA)."
+    ],
+    "Weaknesses": [
+        "Internal inconsistencies in the reported magnitudes/signs of Qf and the degree of degradation at low temperature: the abstract, key findings, and results sections disagree (e.g., Qf values swing between 10^11 and 10^12 cm^-2, and the sign/polarity narrative is contradictory).",
+        "Formatting and notation issues (e.g., malformed exponents and units, inconsistent symbols like Qe vs Qf, Dit units), making core quantitative claims difficult to trust.",
+        "Under-specified evidence for self-limiting ALD chemistry at 80\u00b0C: no shown dose/purge saturation curves, no precursor exposure dependence, and no kinetic analysis supporting saturation under reduced temperature.",
+        "Statistical analysis is claimed but not substantiated: no figures/tables, effect sizes, confidence intervals/posterior summaries, model diagnostics, or raw data links; power analysis parameters appear assumed without empirical variance evidence.",
+        "DFT section is generic and lacks specific defect configurations, computed formation energies, or quantitative links to measured Qf/Dit trends; claims about AlO4\u2212 and interstitial O are not supported with concrete calculations.",
+        "Reproducibility gaps: no access to datasets, scripts, or parameter files despite mention of ELN/SQL/Jupyter; throughput claim (>1 nm/s) is asserted without direct measurement or process window limits.",
+        "Related work contains placeholders ([**?**]), duplications, and appears to omit key SALD-specific studies; the positioning relative to prior low-T ALD and SALD is not fully convincing.",
+        "Scope limitations underexplored: only n-type \u27e8100\u27e9 Si, 5 nm thickness; no exploration of p-type, varying resistivity, or thickness dependence that could materially affect Qf/Dit polarity and Seff.",
+        "Claims about wafer-to-wafer variance (<5%) and ANOVA attribution (>90% by Tgrowth) lack supporting detail; uncertainty quantification on Dit near method sensitivity limit is not provided."
+    ],
+    "Originality": 2.0,
+    "Quality": 2.0,
+    "Clarity": 2.0,
+    "Significance": 2.0,
+    "Questions": [
+        "Quantitative consistency: Please reconcile the contradictory Qf and Dit values across the abstract, key findings, and results. Provide a consolidated table with mean \u00b1 SD (or median and IQR) for Qf, Dit, \u03c4eff, and Seff at each (Tgrowth, TRTA) combination, along with sample sizes. Clarify sign conventions and units. Criterion for improved score: a consistent, verified dataset with coherent narrative and uncertainty estimates.",
+        "ALD saturation at 80\u00b0C: Show precursor dose and purge dependence (saturation curves) at 80\u00b0C vs 140\u00b0C/200\u00b0C to confirm self-limiting behavior. Include GPC vs exposure plots and demonstrate insensitivity to modest over/under-dosing. Criterion: convincing saturation data and kinetic analysis establishing true ALD regime at low T.",
+        "Statistical analysis and reproducibility: Provide the full ANOVA tables (effect sizes, p-values), Bayesian model specification (priors, posteriors), posterior summaries (means, 95% CIs) for Tgrowth effects, and wafer random-effects variance. Share raw measurement data and analysis scripts via a repository (with DOIs). Criterion: transparent, reproducible statistical evidence supporting the main claims.",
+        "DFT-to-experiment linkage: Specify the exact defect motifs and charge states modeled (e.g., Al tetrahedral coordination fractions, interstitial O2\u2212, hydroxyl complexes), their formation energies vs temperature/chemical potential, and predicted impact on fixed charge. Provide quantitative trends that can be compared to measured Qf changes. Criterion: concrete computational results that directly rationalize the experimental trends.",
+        "Methodological details near sensitivity limits: For Dit determination near 1e11 cm^-2 eV^-1, provide frequency dispersion analysis, series resistance de-embedding details, and cross-validation with an independent technique (e.g., SDR or DLTS). Clarify MOS capacitor geometry, area corrections, and Berglund correction implementation. Criterion: robust methodology demonstrating Dit accuracy within stated uncertainties."
+    ],
+    "Limitations": [
+        "Generalization is limited to 5 nm Al2O3 on n-type \u27e8100\u27e9 Si; effects of thickness, substrate orientation, doping type/level, and alternative oxidants are not explored.",
+        "Long-term stability (UV, damp heat, PID), and compatibility with downstream processing (firing, hydrogenation) are not addressed.",
+        "Sensitivity limits of conductance-based Dit extraction are approached; complementary techniques are needed for confirmation at ultralow Dit.",
+        "The study presumes negligible chamber conditioning and precursor aging effects; these could be significant at low T and merit explicit control.",
+        "Potential negative impacts: pushing to very low T may increase impurity incorporation and porosity, potentially reducing device reliability if improperly annealed; process safety for TMA/HF is standard but should be noted."
+    ],
+    "Ethical Concerns": false,
+    "Soundness": 2.0,
+    "Presentation": 2.0,
+    "Contribution": 2.0,
+    "Overall": 2.0,
+    "Confidence": 4.0,
+    "Decision": "Reject"
+}
