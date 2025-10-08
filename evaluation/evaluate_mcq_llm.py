@@ -9,7 +9,7 @@ from tqdm import tqdm
 DATASET_FOLDER_PATH = "evaluation/dataset/evaluation_dataset"
 # Open LLM Client
 client = OpenAI()
-MODEL_NAME = "o3" # other models: o4-mini, gpt-5
+MODEL_NAME = "o4-mini" # other models: o4-mini, gpt-5
 
 SYSTEM_PROMPT = """You will be provided with a question and four options. You have to provide correct answer as a single word string 'Option A' or 'Option B', 'Option C' or 'Option D'."""
 
@@ -51,7 +51,7 @@ for filename in os.listdir(DATASET_FOLDER_PATH):
         results.append({'file_name': filename, "score": score, "percentage": round(score/total, 4)})
 
     # Save results as JSON
-    with open("evaluation/results/llm_evaluation/base/o3.json", "w", encoding="utf-8") as json_file:
+    with open("evaluation/results/llm_evaluation/base/o4-mini.json", "w", encoding="utf-8") as json_file:
         json.dump(results, json_file, indent=4)
         
 
