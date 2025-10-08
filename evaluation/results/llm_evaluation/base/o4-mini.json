@@ -1,0 +1,27 @@
+[
+    {
+        "file_name": "spatial_atomic_layer_deposition_for_energy_and_electronic_devices.csv",
+        "score": 115,
+        "percentage": 0.8984
+    },
+    {
+        "file_name": "molecular_design.csv",
+        "score": 133,
+        "percentage": 0.8636
+    },
+    {
+        "file_name": "topographically_selective.csv",
+        "score": 98,
+        "percentage": 0.7368
+    },
+    {
+        "file_name": "catalysts_design.csv",
+        "score": 114,
+        "percentage": 0.912
+    },
+    {
+        "file_name": "subnano_al.csv",
+        "score": 141,
+        "percentage": 0.8443
+    }
+]
