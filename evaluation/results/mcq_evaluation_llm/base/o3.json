@@ -1,6 +1,6 @@
 [
     {
-        "file_name": "spatial_atomic_layer_deposition_for_energy_and_electronic_devices.csv",
+        "file_name": "spatial_atomic_layer_deposition.csv",
         "score": 120,
         "percentage": 0.9375
     },
@@ -20,7 +20,7 @@
         "percentage": 0.876
     },
     {
-        "file_name": "subnano_al.csv",
+        "file_name": "subnano_al2o3.csv",
         "score": 140,
         "percentage": 0.8383
     }
