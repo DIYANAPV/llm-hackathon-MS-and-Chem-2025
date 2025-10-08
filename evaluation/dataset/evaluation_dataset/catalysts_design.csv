@@ -1,0 +1,126 @@
+Question,Option A,Option B,Option C,Option D,Correct Answer
+The Atomic Layer Deposition (ALD) technique is primarily noted for synthesizing heterogeneous catalysts with what level of precision?,Nanometer precision,Micrometer precision,Atomic precision,Molecular precision,Option C
+"Why are heterogeneous catalysts advantageous compared to homogeneous catalysts, according to the text?",Higher selectivity and yield,Robustness and easy separation from the reaction mixtures,Lower cost and energy consumption,Ability to operate in only one phase,Option B
+What percentage of the world's total energy demand is currently fulfilled by conventional fossil-based fuels?,Around 50%,Around 90%,Around 75%,Around 99%,Option B
+Which two types of heterogeneous catalysis have attracted significant attention due to their eco-friendliness and generation of green energy?,Thermocatalysis and Biocatalysis,Homogeneous catalysis and Enzymatic catalysis,Surface catalysis and Bulk catalysis,Electrocatalysis and photoelectrocatalysis,Option D
+"Which strategy is commonly used to prepare industrial catalysts, according to the document?",Atomic layer deposition (ALD),Impregnation strategy,Sol-gel method,Co-precipitation,Option B
+A disadvantage of catalysts prepared using the impregnation strategy is:,High uniformity in particle size,Inhomogeneous surface structure,Strong interaction with the support,High throughput and low cost,Option B
+Which of the following is listed as a method of interface engineering to improve catalytic efficiency?,Wet-impregnation,Chemical vapor deposition,Nano-alloying,Physical vapor deposition,Option C
+Conventional methods make it challenging to precisely modify which critical part of supported metal catalysts?,The bulk crystal structure,The gas-phase precursor,Metal/oxide interfaces,The reactor temperature,Option C
+"As of May 20th, 2024, how many articles were published on ALD to synthesize catalysts, according to the ""Web of Science"" database?",5:e20240010,179,1794,400,Option C
+"How many of the articles on ALD to synthesize catalysts were published in the last decade (as of May 20th, 2024)?",1794,1393,400,500,Option B
+The self-limiting nature of ALD allows for precise control of which two properties of the deposited material?,Reactor pressure or temperature,Precursor flow rate or purge time,Film thickness or size of NPs,Substrate composition or geometry,Option C
+Which material group is *not* listed as being able to be deposited by the ALD technique?,Metal oxides,Nitrides,Polymers,Carbons (elemental),Option C
+Which of the following is explicitly listed as a drawback of the ALD technique?,High vacuum requirement,Poor conformality,Slow deposition rate,Analogous thickness control,Option C
+What is a major challenge faced by catalysts used in electrochemical energy conversion and storage applications?,Ultra-fast deposition rate,NPs agglomeration,Low operating temperature,High film uniformity,Option B
+What type of structure can the ALD technique effectively form with tailored coating thickness and catalyst loading?,High-entropy alloys,Planar nanowires,Core-shell structures,Flux-controlled layers,Option C
+What fundamental reaction type defines the layer growth in Atomic Layer Deposition (ALD)?,Solution-phase redox reaction,Flux-controlled physical reaction,Self-limiting layer-by-layer chemical reaction,Sintering-induced thermal reaction,Option C
+The precise control of film thickness in ALD is determined by what factor?,The duration of the precursor pulse,The number of ALD cycles,The flow rate of the inert gas,The deposition temperature,Option B
+What is the typical process temperature range for Thermal-ALD?,50-150°C,150-350°C,300-600°C,Below 100°C,Option B
+What does PEALD (Plasma-Enhanced ALD) utilize during the reactant exposure step to generate highly reactive species?,Electric potential,Thermal energy only,Plasma excitation,High vacuum,Option C
+What is the key advantage of PEALD over thermal-ALD?,Eliminates the need for purge steps,Ability to operate at significantly lower process temperatures,Faster deposition rate compared to SALD,Better conformality in high aspect ratio structures,Option B
+What is a disadvantage of PEALD related to the energetic plasma species?,Requires extremely high process temperatures,Interaction with the substrate can lead to damage,Limited compatibility with precursors,Inability to deposit metal oxides,Option B
+What does EA-ALD apply to the substrate to enhance the adsorption of precursor molecules?,A magnetic field,An electric potential,A high-power laser,A strong thermal gradient,Option B
+Which advanced ALD variant eliminates the need for purge steps between the precursor and reactant injection?,Thermal ALD (T-ALD),Plasma-Enhanced ALD (PEALD),Electric Potential-Assisted ALD (EA-ALD),Spatial ALD (SALD),Option D
+"In Spatial ALD (SALD), what primarily determines the deposition rate?",The duration of individual purge steps,The time required for the substrate to transition between reaction zones,The number of ALD cycles,The flow rate of the inert gas,Option B
+What is the main way Batch-ALD enhances throughput?,By eliminating the purge steps,By simultaneously processing multiple substrates,By increasing the deposition temperature,By using a fluidized bed reactor,Option B
+Which specialized ALD technique is designed for the coating of fine powders and particles?,Spatial ALD (SALD),Fluidized Bed Reactor-ALD (FBR-ALD),Electric Potential-Assisted ALD (EA-ALD),Batch-ALD,Option B
+MLD is suitable for heat-sensitive substrates because it can be operated at temperatures lower than which other ALD variant?,Conventional thermal-ALD,Plasma-Enhanced ALD (PEALD),Electric Potential-Assisted ALD (EA-ALD),Spatial ALD (SALD),Option A
+Which group of materials has been most extensively studied using ALD?,Nitride materials,Pure metal materials,Organic polymer materials,Oxide materials,Option D
+What is the reactant most commonly used for forming oxide materials in the ALD technique?,O₂ plasma,NH₃ gas,H₂O vapor,H₂S gas,Option C
+"In the classic ALD growth of Al₂O₃ thin films, what is the commonly used precursor for aluminum?",TiCl₄,Trimethyl Aluminum (TMA), Al(CH₃)₃,WF₆SnCl₄,Option B
+"When the TMA precursor is injected onto an OH-terminated surface in ALD, what byproduct is generated?",H₂O,CH₄,CO₂,HCl,Option B
+What is the chemical structure of the surface after the TMA precursor pulse and purge in the ALD growth of Al₂O₃?,Al-OH surface,Al-O-Al(CH₃)₂ surface,Al-O-Al(H₂O)₂ surface,Al-Cl surface,Option B
+What is the resulting surface functional group after the H₂O reactant pulse in the ALD growth of Al₂O₃?,Al-O-Al(CH₃)₂ surface,Al-OH surface,Al-Cl surface,Al-H surface,Option B
+The typical deposition temperature range for Thermal ALD is:,50-150°C,300-600°C,150-350°C,Below 100°C,Option C
+Which of the following is an example of a metal halide precursor used in Thermal ALD?,Al(OEt)₃,Ni(dmamp), (MeCp)Pt(Me)₃,TiCl₄Cp₂Ni,Option C
+Which of the following is an example of a metal alkoxide precursor used in Thermal ALD?,Cp₂Ni,Pt(acac)₂,Al(OEt)₃,HfCl₄,Option C
+Which type of precursor is represented by compounds like Cp₂Ni and (EtCp)₂Ru in Thermal ALD?,Metal halides,Metal alkoxides,Organometallics,Metal-organic compounds,Option C
+Which material group is *not* listed as being deposited by Thermal ALD?,Metal oxides,Metal nitrides,Pure polymers,Metal sulfides,Option C
+"What type of activation is applied to N₂, H₂, or O₂ when used as reactants in PEALD?",Thermally reduced,Plasma-activated,Electrically potentialized,Laser-induced,Option B
+PEALD operates under a temperature range that is:,Higher compared to thermal ALD,Identical to thermal ALD,Lower compared to thermal ALD,Dependent only on the precursor,Option C
+What is the reported range for the applied electric potential in EA-ALD?,Kilovolts,A few volts to hundreds of volts,Millivolts,Microvolts,Option B
+EA-ALD improves the deposited film properties by enhancing the adsorption of precursor molecules and regulating ALD through modifying which property of surface functional groups?,Molecular mass,Bonding strength,Color,Density,Option B
+"Compared to conventional ALD, what is a notable characteristic of the deposition rate in Spatial ALD (SALD)?",Extremely slow deposition rate,Fast deposition rate,Identical to thermal ALD,Dependent only on the purge gas flow,Option B
+Which ALD variant is characterized by a low temperature range (~50-150°C) making it suitable for heat-sensitive substrates?,Thermal ALD (T-ALD),Plasma-Enhanced ALD (PEALD),Molecular Layer Deposition (MLD),Electric Potential-Assisted ALD (EA-ALD),Option C
+What type of material is deposited by Molecular Layer Deposition (MLD)?,Pure metal nitrides,Organic-inorganic hybrid films,Pure metal oxides,Metal selenides,Option B
+An ALD overcoat is used to prevent what two issues in supported metal nanoparticle (NP) catalysts?,Enhanced catalytic activity and selectivity,Agglomeration and dissolution,High cost and slow deposition rate,Pinholes and poor step coverage,Option B
+What characteristic of ALD makes it effective for uniform coating on extremely complex 3D structures and high-aspect-ratio trench structures?,Flux-controlled deposition,Self-limiting nature,High vacuum requirement,High deposition temperature,Option B
+"Which deposition techniques, in contrast to ALD, are described as flux-controlled deposition methods?",ALD and MLD,PVD and CVD,EA-ALD and PEALD,FBR-ALD and Batch-ALD,Option B
+"For ALD, what is the typical degree of vacuum required?",Low,High vacuum,Ultra-high vacuum,Medium,Option B
+"In terms of Uniformity and Conformality, how does ALD compare to PVD and CVD?",Fair,Excellent,Poor,Analog,Option B
+What is the deposition pattern characteristic of ALD?,Nucleation/Grain growth,Layer-by-layer deposition,Analog deposition,Flux-controlled deposition,Option B
+How is the film thickness control described for ALD?,Analog (deposition time),Digital (number of ALD cycle),Analog (deposition temperature),Analog (precursor flow),Option B
+What is the typical growth rate for the ALD technique?,Fast,Slow,Medium,Very fast,Option B
+What is the typical deposition temperature for Physical Vapor Deposition (PVD)?,High,Relatively low,Moderate,Low,Option B
+What is the typical deposition temperature for Chemical Vapor Deposition (CVD)?,Relatively low,Moderate to low,High,Extremely low,Option C
+What percentage of global industrial catalytic processes predominantly use heterogeneous catalysts?,0.17,0.8,0.03,0.5,Option B
+What percentage of industrial catalytic processes utilize homogeneous catalysis?,0.8,0.17,0.03,0.5,Option B
+Which application area is *not* listed as being addressed by ALD in the context of energy conversion and storage in the document?,Fuel cells,Batteries,Thermodynamic heat pumps,Supercapacitors,Option C
+What is the primary function of fuel cells (FCs)?,Electrical energy is converted into chemical energy,Chemical energy is converted into electrical energy,Thermal energy is converted into mechanical energy,Light energy is converted into chemical energy,Option B
+Which two substances are commonly used as fuels for ORR (Oxygen Reduction Reaction) and HOR (Hydrogen Oxidation Reaction) in fuel cells?,Nitrogen and methane,Oxygen and hydrogen,Carbon monoxide and carbon dioxide,Sulfur dioxide and water,Option B
+Which type of fuel cell is specifically mentioned as a commercially mature technology?,Solid oxide fuel cells (SOFCs),Anion exchange membrane fuel cells (AEMFCs),Proton exchange membrane fuel cells (PEMFCs),Molten carbonate fuel cells (MCFCs),Option C
+What is a significant drawback of the ALD technique compared to other vapor deposition techniques like PVD and CVD?,High equipment cost,Relatively low deposition rate,Poor film conformality,Analogous thickness control,Option B
+The inherently slow process of ALD is due to its growth mechanism based on what kind of reactions?,Flux-controlled reactions,Self-limited reactions,High-temperature thermal reactions,Plasma-induced bulk reactions,Option B
+What substantial fraction of the precursor in ALD is often estimated to remain unreacted?,Approximately 10%,Approximately 60%,Approximately 90%,Approximately 30%,Option B
+What is the primary benefit mentioned for optimizing precursor utilization in ALD?,Increase the deposition temperature,Significantly reduce operational costs,Decrease the conformality,Increase the throughput of Batch-ALD,Option B
+"ALD is characterized as a high-cost technique due to its slow deposition rate, high equipment cost, and what other factor?",Limited precursors,High-aspect-ratio features,High vacuum requirement,High-energy usage,Option C
+What kind of catalysts should future ALD work focus on to minimize cost?,High-entropy alloys,Platinum-based catalysts,Precious metal-free catalysts,Single-atom alloys,Option C
+What is the typical temperature range for Thermal-ALD?,50-150°C,150-350°C,300-600°C,Below 100°C,Option B
+Which of the following is listed as a reactant for Thermal ALD?,N₂-plasma,H₂S plasma,O₃,Plasma-activated O₂,Option C
+Which of the following nitrogen-containing compounds is listed as a reactant for Thermal ALD?,HNO₃,N₂O,NH₃,N₂ gas,Option C
+"Which type of ALD uses metal halides, metal alkoxides, organometallics, and metal-organic compounds as precursors?",PEALD only,MLD only,Thermal ALD,EA-ALD only,Option C
+What material type is *not* deposited by PEALD?,Metal oxides,Metal nitrides,Organic polymers only,Metal selenides,Option C
+Which reactant option listed is unique to EA-ALD among the choices for thermal-based ALD variants?,H₂O vapor,O₃,Oxygen plasma,NH₃,Option C
+Which ALD variant is explicitly noted to operate in a high-temperature range of 300-600°C?,MLD,PEALD,Spatial ALD (SALD),FBR-ALD,Option D
+FBR-ALD is designed for coating which type of substrate?,Planar substrates,Fine powders and particles,High-aspect-ratio trench structures,Single wafers,Option B
+Which of the following is listed as a precursor for Molecular Layer Deposition (MLD)?,TiCl₄,Glycerol,Cp₂Ni,Al(OEt)₃,Option B
+What is the 1ˢᵗ step in the schematic process for ALD-Al₂O₃ film growth?,H₂O Reactant Pulse,TMA Precursor Pulse,TMA Precursor Purge,H₂O Reactant Purge,Option B
+What is the 2ⁿᵈ step in the schematic process for ALD-Al₂O₃ film growth?,H₂O Reactant Pulse,H₂O Reactant Purge,TMA Precursor Purge,TMA Precursor Pulse,Option C
+What is the 3ʳᵈ step in the schematic process for ALD-Al₂O₃ film growth?,TMA Precursor Pulse,H₂O Reactant Pulse,TMA Precursor Purge,H₂O Reactant Purge,Option B
+What is the 4ᵗʰ step in the schematic process for ALD-Al₂O₃ film growth?,TMA Precursor Pulse,H₂O Reactant Purge,TMA Precursor Purge,H₂O Reactant Pulse,Option B
+Which of the following is listed as one of the main contents of the review?,Flux-Controlled Deposition,High-Temperature Sintering,Surface and Interface Engineering,Wet-Chemical Synthesis,Option C
+Which of the following is listed as one of the main contents of the review?,Analog Thickness Control,Controlled Nanoparticles Synthesis,High Vacuum Deposition,PVD and CVD Comparison,Option B
+The self-limiting reaction in ALD occurs between gaseous metal precursors and what other component?,The bulk of a liquid solvent,The surface of a solid substrate,The plasma source,The exhaust gas,Option B
+Which application is *not* listed as a field where metal catalysts on support are used in heterogeneous catalysis reactions?,Automobile exhaust treatment,Biomass conversions,Homogeneous precipitation reactions,Chemical synthesis,Option C
+Which technique is listed as a conventional wet-chemical method for catalyst synthesis?,Atomic layer deposition,Impregnation strategy,Plasma-enhanced deposition,Spatial deposition,Option B
+Which of the following is *not* listed as an established method for controlling the size of nanoclusters?,Host-guest strategy,Chemical reduction,Electric Potential-Assisted ALD,Strong electrostatic adsorption,Option C
+The efficiency of electrocatalysts is intimately dependent on what characteristics?,Time-of-flight mass spectrometry results,Geometrical parameters,Precursor toxicity,The flow rate of purge gas,Option B
+What property of surface coatings are PVD and CVD largely used to achieve?,Atomic-level thickness control,Perfect layer-by-layer deposition,Excellent microstructure,Digital thickness control,Option C
+What property of catalysts is limited in its preciseness by conventional methods like wet-chemical synthesis and CVD?,Robustness,Easy separation,Geometry,Chemical resistance,Option C
+"In a recent ALD-prepared electrocatalyst for water-splitting, which precursor was used for MoS₂ deposition?",Pd(hfac)₂,FeCp₂,MeCpPtMe₃,MoCl₅,Option D
+Which ALD precursor/reactant system was used to prepare the Pt@N-Co₃O₄ electrocatalyst for HER?,MoCl₅//H₂S,MeCpPtMe₃//O₃,Pd(C₅HF₆O₂)₂//Formalin,Co(iPr₂-AMD)₂//Amine,Option B
+What was the ALD deposition temperature used for the Pt nanocluster/TiO₂NTs@3D-Ti electrode?,220°C,280°C,300°C,350°C,Option C
+Which of the following is a characteristic that makes metal nitride materials advantageous for electrocatalysis?,High deposition temperature requirement,Good electrical conductivity,Poor chemical stability,Low mechanical strength,Option B
+The document states that the ALD technique can facilitate overcoming what issues related to diverse heterogeneous catalysts for energy applications?,Their high cost,Their limitations,Their robust nature,Their easy separation,Option B
+"In Spatial ALD (SALD), the deposition rate is *not* limited by which factor?",Substrate transition time,Precursor saturation time,Individual cycle times,Purge gas flow rate,Option C
+What percentage of global industrial catalytic processes utilize enzymatic catalysis?,0.8,0.17,0.5,0.03,Option D
+"In the ALD growth of Al₂O₃, the H₂O reactant reacts with the functional groups to produce which byproduct?",H₂O,CO₂,HCl,CH₄,Option D
+"What does ALD provide precise control over by the number of ALD cycles, besides thickness and composition?",Plasma excitation,The deposition temperature,Uniformity and conformal coverage,Precursor flow rate,Option C
+"What is one method, other than ion exchange and wet-impregnation, listed as a conventional wet-chemical method for catalyst synthesis?",Host-guest strategy,Deposition-precipitation,Chemical reduction,Strong electrostatic adsorption,Option B
+What is a major concern mentioned regarding the heterogeneity and complexity of heterogeneous catalysts' atomic and chemical structures?,Precursor cost,Film density,Catalytic efficiency evaluation,Substrate etching,Option C
+"The complexity of heterogeneous catalysts is increased by defects such as vacancies, kinks, atomic steps, stacking faults, and what other type of boundary?",Grain boundaries,Twin boundaries,Phase boundaries,Support boundaries,Option B
+The determination of the 'active center' of a heterogeneous catalyst is described as a what kind of task?,Simple task,Routine task,Formidable task,Automated task,Option C
+What method is described as difficult for reducing the size of NPs and controlling the number of metal atoms in nanoclusters due to hard control of the aggregation process?,Atomic Layer Deposition (ALD),Spatial ALD (SALD),Conventional wet-chemical methods,Fluidized Bed Reactor-ALD (FBR-ALD),Option C
+The catalytic performance of heterogeneous catalysts is dependent on their interfacial properties in addition to which other factor?,Color,Mass,Size,Volume,Option C
+What material is typically used as a support for supported metal particles in heterogeneous electrocatalysis?,Carbon material,Oxide material,Polymer material,Metal nitride material,Option A
+"What type of structures in the metal/oxide interface arise from polarization, hybridization, and charge transfer?",Simple bulk structures,Disordered crystal structures,Unique and complicated electronic states,Uniform planar layers,Option C
+"A small modification in the interface causes a significant difference in the material properties of the catalysts, leading to a difference in what outcome?",Precursor cost,Catalytic performance,Reactor maintenance,Purge gas purity,Option B
+"ALD provides a diverse range of materials deposition including metals, metal oxides, nitrides, sulfides, and which other two types of films?",Ceramics and glasses,Semiconductors and insulators,Polymers and inorganic-organic hybrid films,Alloys and composites,Option C
+"To process thermally sensitive substrates and precursors, which ALD technique is often utilized to overcome high temperature limitations?",Thermal-ALD,PEALD,EA-ALD,Batch-ALD,Option B
+"In high aspect ratio structures, radicals in PEALD lose reactivity before reaching the bottom, leading to decreased what?",Temperature,Pressure,Conformality,Throughput,Option C
+"The applied electric field in EA-ALD increases the collision and adsorption rates of precursor molecules, resulting in higher what during the initial ALD step?",Deposition temperature,Purge time,Nucleation density,Byproduct formation,Option C
+"In SALD, the substrate is continuously exposed to precursor and reactant gases as it moves between what?",A single chamber,A liquid solvent bath,Physically separated zones,A high-pressure furnace,Option C
+Batch-ALD is ideal for industrial-scale applications of thin film deposition for what two specific uses listed?,Automobile exhaust treatment and biomass conversion,Solar cell layers and transparent conductive oxides,Water-splitting and fuel cells,Supercapacitors and batteries,Option B
+What is used in FBR-ALD to achieve uniform distribution of precursor gases over the surface of individual particles?,A showerhead type reactor,A fluidized bed reactor,A single wafer system,A roll-to-roll system,Option B
+MLD utilizes organic precursors containing what that react with the substrate?,Inert gases,Noble metals,Functional groups,Alkyl halides,Option C
+"In ALD for oxides, after precursor injection and purge, the hydroxyl functional groups on the substrate surface facilitate what kind of reaction?",Hydrothermal reaction,Ligand exchange reaction,Pyrolysis,Sintering,Option B
+What is an example of a metal-organic compound precursor used in Thermal ALD?,TiCl₄,Al(OEt)₃,Pt(acac)₂,Cp₂Ni,Option C
+"What is an example of a metal alkoxide precursor used in Thermal ALD, besides Al(OEt)₃?",SnCl₄,Ti(OEt)₄,Pt(acac)₂,Cp₂Ni,Option B
+The reactants in Thermal ALD include which sulfur-containing gas?,SO₂,SF₆,H₂S,CS₂,Option C
+PEALD uses reactants that are activated by what process?,Thermal energy,Electric potential,Plasma,Laser,Option C
+The applied electric potential in EA-ALD is used to enhance the adsorption of which molecules?,Inert gas molecules,Reactant molecules,Precursor molecules,Byproduct molecules,Option C
+SALD employs spatially separated zones for which two components?,Substrate and heater,Inert gas and vacuum,Precursor and reactant,Plasma and electric field,Option C
+The deposition rate in SALD is not limited by individual cycle times but is determined by the time required for the substrate to transition between what?,Purge steps,Heater zones,Reaction zones,Vacuum chambers,Option C
+What is the deposition temperature of the $\mathrm{Pd} / \mathrm{Carbon}$ nanofiber/ $\mathrm{Ni} / \mathrm{NiO}$ electrocatalyst for $\mathrm{OER}$?,$300^{\circ} \mathrm{C}$,$350^{\circ} \mathrm{C}$,$220^{\circ} \mathrm{C}$,$260^{\circ} \mathrm{C}$,Option C
+The electrocatalyst $\mathrm{NiOx} @ \mathrm{Co}_{3} \mathrm{O}_{4}$ on Carbon cloth for OER utilized plasma-enhanced ALD at which temperature?,$220^{\circ} \mathrm{C}$,$300^{\circ} \mathrm{C}$,$260^{\circ} \mathrm{C}$,$350^{\circ} \mathrm{C}$,Option C
