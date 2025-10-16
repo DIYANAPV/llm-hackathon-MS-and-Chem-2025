@@ -1,0 +1,27 @@
+[
+    {
+        "file_name": "catalysts_design.csv",
+        "score": 70,
+        "percentage": 0.56
+    },
+    {
+        "file_name": "molecular_design.csv",
+        "score": 96,
+        "percentage": 0.6234
+    },
+    {
+        "file_name": "spatial_atomic_layer_deposition.csv",
+        "score": 92,
+        "percentage": 0.7188
+    },
+    {
+        "file_name": "subnano_al2o3.csv",
+        "score": 105,
+        "percentage": 0.6287
+    },
+    {
+        "file_name": "topographically_selective.csv",
+        "score": 88,
+        "percentage": 0.6617
+    }
+]
