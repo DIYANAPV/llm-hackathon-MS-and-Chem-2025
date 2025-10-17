@@ -11,8 +11,8 @@ from transformers import AutoTokenizer, AutoModelForCausalLM
 # === Configuration ===
 DATASET_FOLDER_PATH = Path("evaluation/dataset/evaluation_dataset")
 PDF_FOLDER_PATH = Path("evaluation/original_papers")
-RESULTS_PATH = Path("evaluation/results/mcq_evaluation_llm/original_papers/qwen3_4B_thinking_2507_fp8.json")
-MODEL_ID = "Qwen/Qwen3-4B-Thinking-2507-FP8"  # change to the HF model or local path
+RESULTS_PATH = Path("evaluation/results/mcq_evaluation_llm/original_papers/mistral_7b_instruct_v02.json")
+MODEL_ID = "mistralai/Mistral-7B-Instruct-v0.2"  # change to the HF model or local path
 MAX_WORKERS = 4  # This configuration variable is now unused but kept for reference
 
 SYSTEM_PROMPT = """You will be given:
@@ -100,7 +100,7 @@ def evaluate_file(file_path: Path, pdf_text: str):
             try:
                 llm_output = predict_from_prompt(user_prompt, max_tokens=6400).replace('"','').strip()
                 total += 1
-                if correct_answer in llm_output:
+                if correct_answer in llm_output or correct_answer[-1] == llm_output:
                     score += 1
                 else:
                     print(f"[{file_path.name}] Line: {total} ❌ Expected: {correct_answer}, Got: {llm_output}")

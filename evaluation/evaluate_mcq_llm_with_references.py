@@ -8,9 +8,9 @@ from PyPDF2 import PdfReader
 
 # === Configuration ===
 DATASET_FOLDER_PATH = Path("evaluation/dataset/evaluation_dataset")
-PDF_FOLDER_PATH = Path("evaluation/generated_papers/o4-mini")  # folder with corresponding PDFs
-RESULTS_PATH = Path("evaluation/results/mcq_evaluation_llm/o4_mini_generated/o3.json")
-MODEL_NAME = "o3"  # or "o4-mini", "gpt-5"
+PDF_FOLDER_PATH = Path("evaluation/generated_papers/gpt-5")  # folder with corresponding PDFs
+RESULTS_PATH = Path("evaluation/results/mcq_evaluation_llm/gpt5_generated/gpt-5.json")
+MODEL_NAME = "gpt-5"  # or "o4-mini", "gpt-5"
 MAX_WORKERS = 8  # Tune based on rate limits and system resources
 
 SYSTEM_PROMPT = """You will be provided with:
